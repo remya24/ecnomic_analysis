@@ -1,2 +1,8 @@
 # ecnomic_analysis
-In this we analyse ecnomic data using Fred api.
+Tools:
+   jupyter
+Data source :
+   Fred api
+
+     In this we get ecnomic data from fred API.
+     We clean the data and do EDA
